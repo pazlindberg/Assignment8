@@ -1,0 +1,21 @@
+footer {
+	height:50px;
+	//background-color:black;
+	//color:white;
+	margin:0px;
+	padding:0px;
+}
+
+header {
+	background-color:lightgray;
+}
+
+.prods {
+font-size:0.25em;
+}
+
+.CENTER {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+}
